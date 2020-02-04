@@ -1,5 +1,5 @@
 ﻿using EquipmentLibrary;
-using RabbitCommunicationLib.Enums;
+using EquipmentLibrary.Enums;
 using System;
 using System.Collections.Generic;
 using System.IO;
