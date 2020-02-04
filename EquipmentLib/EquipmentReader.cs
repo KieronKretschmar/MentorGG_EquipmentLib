@@ -1,5 +1,5 @@
-﻿using EquipmentLibrary;
-using EquipmentLibrary.Enums;
+﻿using EquipmentLib;
+using EquipmentLib.Enums;
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Text.RegularExpressions;
 
-namespace EquipmentLibrary
+namespace EquipmentLib
 {
     public class EquipmentReader
     {

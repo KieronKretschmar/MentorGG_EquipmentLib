@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace EquipmentLibrary
+namespace EquipmentLib
 {
     public class EquipmentModel
     {

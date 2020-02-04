@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace EquipmentLibrary
+namespace EquipmentLib
 {
     public class EquipmentInfo
     {

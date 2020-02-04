@@ -1,9 +1,9 @@
-﻿using EquipmentLibrary.Enums;
+﻿using EquipmentLib.Enums;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace EquipmentLibrary
+namespace EquipmentLib
 {
     public class EquipmentSet
     {

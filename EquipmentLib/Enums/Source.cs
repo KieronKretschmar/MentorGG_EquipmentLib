@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace EquipmentLibrary.Enums
+namespace EquipmentLib.Enums
 {
 
     /// <summary>
